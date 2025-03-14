@@ -20,9 +20,9 @@ The add-on requires Blender 2.83 or newer.
 
 ## Usage
 
-Select two objects, child should be selected last.
+**Select the parent, then shift select the child and click `Create`**
 
-Click `Create` to create constants and animation keys. Move to another frame. Click `Disable` to disable the constraints for the selected objects.
+This creates constants and animation keys. Move to another frame. Click `Disable` to disable the constraints for the selected objects.
 
 The `Clear` menu:
 
